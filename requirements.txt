@@ -1,0 +1,20 @@
+# Data Manipulation & EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning & Preprocessing
+scikit-learn
+imbalanced-learn
+
+# Ensemble Models
+xgboost
+lightgbm
+
+# Explainability
+shap
+
+# Notebook Support
+jupyter
+ipykernel
